@@ -31,3 +31,9 @@ Code testant l'algorithme SVM linéaire avec un y multi catégorielle
 
 **svm_rbf.ipynb** :
 Code testant l'algorithme SVM rbf avec un y multi catégorielle 
+
+**Présentation_orale_Kostov_Joudet.pdf** :
+Diaporama utiliser à l'oral pe la présentation du projet d'étude
+
+**Rapport_de_Projet_Kostov_Joudet.pdf** :
+Rendu du projet final
